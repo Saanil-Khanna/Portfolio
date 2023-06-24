@@ -4,7 +4,13 @@
 This project focuses on exploring and analyzing COVID-19 data using SQL. It includes various queries and techniques to extract meaningful insights from the data. The code demonstrates the usage of joins, common table expressions (CTEs), temporary tables, window functions, aggregate functions, and creating views. The goal is to gain insights into COVID-19 cases, deaths, population, vaccinations, and other related metrics.
 
 ## Data Source
-The COVID-19 data used in this project is sourced from the [COVID-19 Data Explorer](https://ourworldindata.org/covid-deaths). This dataset provides comprehensive and up-to-date information on COVID-19 cases and deaths worldwide.
+The COVID-19 data used in this project is sourced from the [COVID-19 Data Explorer](https://ourworldindata.org/covid-deaths). This dataset provides comprehensive and up-to-date information on COVID-19 cases and deaths worldwide. 
+
+To facilitate the analysis, the dataset has been divided into two parts:
+- `CovidDeaths.xlsx`: Contains data on COVID-19 cases and deaths.
+- `CovidVaccinations.xlsx`: Contains data on COVID-19 vaccinations.
+
+You can find these datasets in the project folder.
 
 ## Skills Used
 - Joins
