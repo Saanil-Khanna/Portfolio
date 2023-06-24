@@ -6,7 +6,7 @@ The paper was published in MDPI Journal on 4 August 2021.
 
 ## Abstract
 
-Alzheimer's disease (AD) is a complex neurodegenerative disorder that has significant impacts on individuals and their families. Extensive research has been conducted to better understand the nature of AD, improve diagnosis methods, and address various research gaps related to prognosis. In this research paper, titled "Title of Your Paper," we present a study that focuses on utilizing image processing techniques for the classification of AD and Cognitively Normal (CN) patients.
+Alzheimer's disease (AD) is a complex neurodegenerative disorder that has significant impacts on individuals and their families. Extensive research has been conducted to better understand the nature of AD, improve diagnosis methods, and address various research gaps related to prognosis. In this research paper, titled "Classification of Alzheimer’s Disease Patients Using Texture Analysis and Machine Learning" we present a study that focuses on utilizing image processing techniques for the classification of AD and Cognitively Normal (CN) patients.
 
 The objective of our study was to extract textural information from Magnetic Resonance Imaging (MRI) scans using the Gray Level Co-occurrence Matrix (GLCM) as a foundation for texture classification. By analyzing specific regions of interest (ROI) in the MRI dataset, we aimed to decipher the characteristics and patterns associated with AD. Various textural parameters derived from the GLCM were used to understand the unique features of these regions.
 
