@@ -1,6 +1,8 @@
 # Portfolio
 
-Welcome to my GitHub portfolio repository! Here, you will find a collection of my projects and code samples showcasing my skills and expertise in data analysis, programming, and problem-solving.
+Welcome to my GitHub portfolio repository! 
+
+Here, you will find a collection of my projects and code samples showcasing my skills and expertise in data analysis, programming, and problem-solving.
 
 This repository serves as a comprehensive showcase of my technical abilities, demonstrating my proficiency in languages such as Python, SQL, and R, as well as my familiarity with data visualization tools like Tableau and Power BI.
 
