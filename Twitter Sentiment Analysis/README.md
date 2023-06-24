@@ -41,9 +41,9 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 The code in this repository was developed based on the principles and techniques of sentiment analysis, machine learning, and natural language processing. The following resources were referenced during the development process:
 
-NLTK Documentation
-Scikit-learn Documentation
-Seaborn Documentation
+NLTK Documentation,
+Scikit-learn Documentation,
+Seaborn Documentation,
 Python Programming Language
 
 
